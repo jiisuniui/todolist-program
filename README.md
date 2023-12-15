@@ -2,4 +2,4 @@
 
 
 ## ERD
-![image](https://github.com/jiisuniui/todolist-program/assets/82515938/ae923b14-6831-4dcc-ba6c-8df8487b55ac)
+![image](https://github.com/jiisuniui/todolist-program/assets/82515938/65c668cb-44f0-4f9a-aa82-03b3dedf921f)
